@@ -198,6 +198,15 @@ section {
     filter: sepia(25%) brightness(80%);
 }
 
+.prototype-image {
+    width: 600px;
+    height: 600px;
+    object-fit: fill;
+    border: 2px solid #947347;
+    box-shadow: 0 5px 25px rgba(0,0,0,0.7);
+    filter: sepia(25%) brightness(80%);
+}
+
 .hero-content {
     display: flex;
     align-items: center;
