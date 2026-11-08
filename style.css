@@ -185,25 +185,8 @@ section {
     color: #bdb09b;
 }
 
-.gallery {
+.prototype {
     text-align: center;
-}
-
-.gallery-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 15px;
-}
-
-.gallery-item {
-    background: linear-gradient(145deg, #48352a, #171010);
-    border: 1px solid #51402c;
-    min-height: 180px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: 'Cinzel', serif;
-    color: #c9a66b;
 }
 
 .creator-image {
